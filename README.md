@@ -31,7 +31,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/you/noxa
+git clone https://github.com/sudo-Noxa/Noxa-CLI
 cd noxa
 pip install -r requirements.txt
 
@@ -119,9 +119,3 @@ python chat.py --nick ghost --connect wss://xxxx.ngrok.io
 
 > **Not anonymous by default.** Noxa protects message *contents*, not your network identity.  
 > Your IP address is visible to the host. For real anonymity, run over **Tor** or a trusted VPN.
-
----
-
-## License
-
-MIT — see [LICENSE](LICENSE)
