@@ -119,3 +119,6 @@ python chat.py --nick ghost --connect wss://xxxx.ngrok.io
 
 > **Not anonymous by default.** Noxa protects message *contents*, not your network identity.  
 > Your IP address is visible to the host. For real anonymity, run over **Tor** or a trusted VPN.
+
+> **Contact with us**
+> You can contact with us in our Telegram Channel: t.me/NoxaMessenger
