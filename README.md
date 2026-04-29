@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/sudo-Noxa/Noxa-CLI
-cd noxa
+cd Noxa-CLI
 pip install -r requirements.txt
 
 # optional: set ngrok token for internet access
